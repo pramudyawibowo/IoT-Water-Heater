@@ -8,7 +8,11 @@
 |  2 | Dwi Nur Oktaviani   | 1941720239 |
 |  3 | Pramudya Wibowo     | 1941720054 |
 
+## Pengkabelan
+ ![Pengkabelan Fritzing](/Fritzing/Wiring.jpg)
+
 ## Langkah Penggunaan Kode Program
+* Atur pengkabelan seperti pada contoh diatas
 * Ubah SSID dan Password dengan SSID dan Password dari Wifi yang digunakan.
 * Atur alamat MQTT Broker yang digunakan.
 * Atur pin-pin dari perangkat apabila diperlukan.
