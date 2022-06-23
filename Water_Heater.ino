@@ -15,7 +15,7 @@
 
 const char *ssid = "SSID";
 const char *password = "password";
-const char *mqtt_server = "168.138.190.252";
+const char *mqtt_server = "138.2.87.224";
 String newHostname = "water-heater";
 WiFiClient espClient;
 PubSubClient client(espClient);
