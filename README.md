@@ -17,7 +17,7 @@
 * Atur alamat MQTT Broker yang digunakan.
 * Atur pin-pin dari perangkat apabila diperlukan.
 * Upload program, tunggu perangkat booting hingga LCD menunjukkan tampilan monitoring suhu.
-* Akses node-red dashboard dengan alamat http://138.2.73.101:3000/ui
+* Akses node-red dashboard dengan alamat http://168.138.175.53:1880/ui
 * Demo project dan uji coba dapat dilihat melalui link berikut https://youtu.be/ZZKoxPK8TpI
 
 [![Demo Project IoT](https://img.youtube.com/vi/ZZKoxPK8TpI/0.jpg)](https://youtu.be/ZZKoxPK8TpI "Demo Project IoT")
